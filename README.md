@@ -6,14 +6,14 @@
   <p> This is an animation designed to look like two eyes that are following the mouse as the user moves it around on the screen. I used html, css, and javascript.    </p> 
   
 <h3> Viewing This Project </h3>
-  <p> Source Code: https://github.com/ErinNDavis/Eye_Exercise </p><br>
-  <p> Online Working Version: https://Eye_Exercise.github.io </p><br>
+  <p> Source Code: https://github.com/ErinNDavis/Eye_Exercise </p>
+  <p> Online Working Version: https://Eye_Exercise.github.io </p>
   
 <h3> Installation </h3>
   
-  <p> Install npm: </p><br>
-  <p> $ npm install npm@latest -g </p><br>
-  <p> Clone repository: </p> <br>
+  <p> Install npm: </p>
+  <p> $ npm install npm@latest -g </p>
+  <p> Clone repository: </p> 
   <p> $ git clone https://github.com/ErinNDavis/Eye_Exercise.git </p>
 
 <h3> Contact </h3>
