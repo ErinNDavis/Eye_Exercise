@@ -7,7 +7,7 @@
   
 <h3> Viewing This Project </h3>
   <p> Source Code: https://github.com/ErinNDavis/Eye_Exercise </p>
-  <p> Online Working Version: https://Eye_Exercise.github.io </p>
+  <p> Online Working Version:  https://erinndavis.github.io/Eye_Exercise.github.io/ </p>
   
 <h3> Installation </h3>
   
