@@ -4,7 +4,11 @@
   
   <img src="Screen Shot 2021-04-23 at 12.32.33 PM.png">
   <p> This is an animation designed to look like two eyes that are following the mouse as the user moves it around on the screen. I used html, css, and javascript.    </p> 
-
+  
+<h3> Viewing This Project </h3>
+  <p> Source Code: </p><br>
+  <p> Webpage: </p><br>
+  
 <h3> Installation </h3>
   
   <p> You can get source code from my repository. </p>
